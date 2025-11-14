@@ -1,7 +1,5 @@
-public class Main {
-public static void main(String[] args) {
+print("Fase inicial del proyecto");
+print("Desarrollado en Alumno");
+print("Fase inicial del proyecto")
+print("Desarrollando en Materia")
 
-System.out.println("Fase inicial del proyecto");
-System.Out.println("Desarrollado en Alumno");
-  }
-}
